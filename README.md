@@ -289,14 +289,6 @@ By using this project, you will learn:
 
 ---
 
-## 📈 Use in Resume / Portfolio
-
-Example resume entry:
-
-> Automated Kubernetes single-node cluster provisioning using Bash and kubeadm on Ubuntu 22.04, including Docker, containerd, Calico networking, and production-style configuration.
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome.
@@ -310,13 +302,7 @@ Steps:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - Kubernetes Community
 - CNCF
@@ -327,9 +313,9 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-Maintained by: **<Your Name>**
+Maintained by: **Rishi Kulkarni**
 
-GitHub: **<your-github-profile>**
+GitHub: **[@geeky-rish](https://github.com/geeky-rish/kubernetes-single-node-setup)**
 
 ---
 
